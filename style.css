@@ -1,0 +1,18 @@
+body {
+	display: flex;
+	justify-content: center;
+	background: linear-gradient(to right, blue 50%, yellow 50%);
+}
+
+button {
+font-size: 200%;
+width: 80px;
+height:80px;
+}
+
+input {
+font-size: 24px;
+height: 70px;
+text-align: right;
+width:100%;
+}
